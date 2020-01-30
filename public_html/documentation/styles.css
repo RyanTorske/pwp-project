@@ -2,8 +2,8 @@ body {
 	background-image: url("cool-background (1).png");
 	background-position: center;
 	background-size: cover;
-	border: black;
 }
+
 p {
 	margin-top: 30px;
 	margin-bottom: 30px;
@@ -19,8 +19,8 @@ p {
 }
 
 img {
-	height: 450px;
-	width: 450px;
+	height: 500px;
+	width: 400px;
 	border: 10px solid black;
 }
 
