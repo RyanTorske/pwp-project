@@ -1,0 +1,10 @@
+{
+  "require": {
+    "google/recaptcha": "~1.1",
+    "mailgun/mailgun-php": "@stable",
+    "kriswallsmith/buzz": "@stable",
+    "nyholm/psr7": "@stable",
+    "swiftmailer/swiftmailer": "@stable"
+
+  }
+}
