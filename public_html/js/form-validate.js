@@ -14,7 +14,7 @@ $(document).ready(function(){
 	 **/
 
 	/* begin validate function here */
-	$("#my-contact-form").validate({
+	$("#ryan-contact-form").validate({
 
 		// setup handling of form errors
 		debug: true,
@@ -55,7 +55,7 @@ $(document).ready(function(){
 
 		// AJAX submit the form data to back end if rules pass
 		submitHandler: function(form) {
-			$("#my-contact-form").ajaxSubmit({
+			$("#ryan-contact-form").ajaxSubmit({
 				type: "POST",
 				url: $("#my-contact-form").attr("action"),
 
