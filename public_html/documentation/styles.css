@@ -24,3 +24,22 @@ body {
 	align-content: center;
 }
 
+p {
+	font-family: Georgia;
+}
+
+li {
+	font-family: Georgia;
+}
+
+h3 {
+	font-family: Georgia;
+}
+
+/*img {*/
+/*	height: auto;*/
+/*	display: block;*/
+/*	margin-left: auto;*/
+/*	margin-right: auto;*/
+/*	vertical-align: middle;*/
+/*}*/
