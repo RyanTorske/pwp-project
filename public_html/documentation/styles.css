@@ -24,6 +24,7 @@ body {
 	align-content: center;
 }
 
+
 p {
 	font-family: Bookman;
 	font-size: x-large;
@@ -36,12 +37,7 @@ li {
 
 h3 {
 	font-family: Bookman;
-	font-size: xx-large;
-	font-weight: bold;
+	font-size: x-large;
+	font-weight: bolder;
 }
 
-/*img[src="profile pic.jpg"] {*/
-/*	height: 200vm;*/
-/*	width: 200vm;*/
-/*	align-content: center;*/
-/*}*/
