@@ -25,21 +25,23 @@ body {
 }
 
 p {
-	font-family: Georgia;
+	font-family: Bookman;
+	font-size: x-large;
 }
 
 li {
-	font-family: Georgia;
+	font-family: Bookman;
+	font-size: x-large;
 }
 
 h3 {
-	font-family: Georgia;
+	font-family: Bookman;
+	font-size: xx-large;
+	font-weight: bold;
 }
 
-/*img {*/
-/*	height: auto;*/
-/*	display: block;*/
-/*	margin-left: auto;*/
-/*	margin-right: auto;*/
-/*	vertical-align: middle;*/
+/*img[src="profile pic.jpg"] {*/
+/*	height: 200vm;*/
+/*	width: 200vm;*/
+/*	align-content: center;*/
 /*}*/
